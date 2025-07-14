@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const upload = require('../middleware/upload');
-const { signup } = require('../authController.js');
+const { signup } = require('../controllers/authController');
 
 router.post('/signup', upload.fields([{ name: 'profileImage' }, { name: 'coverImage' }]), signup);
 
