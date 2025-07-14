@@ -5,4 +5,4 @@ Technologies used:
 - Node.js
 - Express
 - MongoDB
-50%AI, 50% self
+- 50%AI, 50% self
