@@ -3,7 +3,7 @@
 This repository contains the backend code for the Signup System.
 Technologies used:
 - Node.js  v22.15.1
-- 50%AI, 50% self
+- 90%AI, 10% self
 - List of completed tasks:
   -Signup Form
 -Required fields:  Email, Password, Date of Birth, Gender, Phone Number
